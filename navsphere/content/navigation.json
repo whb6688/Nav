@@ -1098,6 +1098,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "item-1763396116905",
+              "enabled": true,
+              "title": "Qwerty Learner 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件",
+              "href": "https://qwerty.kaiyi.cool/",
+              "description": "Qwerty Learner 官方网站 - 专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
+              "icon": "/assets/favicon_1763396093960.ico"
             }
           ],
           "enabled": true
