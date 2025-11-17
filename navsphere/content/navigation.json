@@ -1025,7 +1025,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1763387967282_a6b0ovia7",
+          "title": "所有的PDF工具 - 100%免费 - PDF24",
+          "href": "https://tools.pdf24.org/zh/all-tools",
+          "description": "PDF24提供大量的经过精心裁剪的针对特定问题的工具集合。您将在这个页面找到所有的PDF工具。",
+          "icon": "/assets/favicon_1763387946656.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
