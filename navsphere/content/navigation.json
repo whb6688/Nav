@@ -1114,6 +1114,14 @@
               "href": "https://www.52cnp.com/thread-27840-1-1.html",
               "description": "访问 www.52cnp.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.52cnp.com"
+            },
+            {
+              "id": "item-1763422385614",
+              "enabled": true,
+              "title": "所有的PDF工具 - 100%免费 - PDF24",
+              "href": "https://tools.pdf24.org/zh/all-tools",
+              "description": "PDF24提供大量的经过精心裁剪的针对特定问题的工具集合。您将在这个页面找到所有的PDF工具。",
+              "icon": "/assets/favicon_1763422377478.png"
             }
           ],
           "enabled": true
