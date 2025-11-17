@@ -1033,6 +1033,14 @@
           "description": "PDF24提供大量的经过精心裁剪的针对特定问题的工具集合。您将在这个页面找到所有的PDF工具。",
           "icon": "/assets/favicon_1763387946656.png",
           "enabled": true
+        },
+        {
+          "id": "item-1763396014407",
+          "enabled": true,
+          "title": "Qwerty Learner 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件",
+          "href": "https://qwerty.kaiyi.cool/",
+          "description": "Qwerty Learner 官方网站 - 专为键盘工作者设计的免费英语学习软件，结合打字练习与单词记忆，支持音标发音、默写模式、多样词库，高效提升英语水平和打字技能。",
+          "icon": "/assets/favicon_1763395948443.ico"
         }
       ],
       "subCategories": [
