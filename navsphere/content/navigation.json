@@ -419,6 +419,14 @@
               "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
               "icon": "/assets/favicon_1755225933031.ico",
               "enabled": true
+            },
+            {
+              "id": "item-1763638263028",
+              "enabled": true,
+              "title": "【公益服务】Github 文件加速服务器-六音",
+              "href": "https://sixyin.com/10390.html",
+              "description": "最近使用开源项目搭建了两个Github文件加速服务，用来加速Github，目前开放给大家使用，请勿滥用 原Github项目：https://github.com/hunshcn/gh-proxy 使用注意事项 以上加速服务器均为英国VPS，其中第二个带宽比较小，均不保证稳定性\thttps://gh.sixyin.com\thttps://gh.6yit.com 使用 直接在copy出来的url前加",
+              "icon": "/assets/favicon_1763638239752.png"
             }
           ]
         },
