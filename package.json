@@ -82,9 +82,9 @@
     "zod": "3.25.76"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^5.0.0",    // 把 v4 改成 v5
+    "@cloudflare/workers-types": "^4.20260702.1",    // 把 v4 改成 v5
     "@cloudflare/next-on-pages": "^1.13.16",  // 手动添加这一行，固定构建工具版本
-    "wrangler": "^4.0.0"                      // 保持 v4，无需改动
+    "wrangler": "^3.0.0"                      // 保持 v4，无需改动
     "@radix-ui/react-icons": "^1.3.2",
     "@types/node": "20.4.5",
     "@types/react": "18.3.23",
