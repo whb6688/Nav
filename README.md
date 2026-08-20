@@ -21,7 +21,7 @@
 ## 📖 项目简介
 
 NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专为个人和团队打造的书签管理和导航门户解决方案。通过 GitHub 作为数据存储后端，提供安全、可靠的导航数据管理体验。<a href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg" target="_blank">[手把手快速部署教程]</a>
-
+，更多工具请访问[NewKit](https://www.newkit.site/)
 <p align="center">
   <img src="doc/n.png" alt="NavSphere Logo" />
 </p>
@@ -47,7 +47,7 @@ NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专�
 
 | 技术栈              | 版本          | 用途                  |
 | ------------------- | ------------- | --------------------- |
-| **Next.js**         | 15.4.6        | React 全栈框架        |
+| **Next.js**         | 15.5.7       | React 全栈框架        |
 | **React**           | 18.2.0        | 用户界面库            |
 | **TypeScript**      | 5.1.6         | 类型安全的 JavaScript |
 | **Tailwind CSS**    | 4.1.12        | 原子化 CSS 框架       |
@@ -73,8 +73,8 @@ NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专�
 ### 安装使用
 
 1. **获取插件**
-   - 访问 [NavSphere Extension](https://github.com/tianyaxiang/navsphere-extension)
-   - 下载最新版本或从应用商店安装（暂时未上架）
+   - Chrome 商店安装: [NavSphere Extension](https://chromewebstore.google.com/detail/navsphere-extension/kjabmfljebjaglniegpjfldgolffcoea?hl=en-US&utm_source=ext_sidebar)
+   - 源码仓库: [GitHub](https://github.com/tianyaxiang/navsphere-extension)
 
 2. **配置连接**
    - 在插件设置中配置你的 NavSphere 站点地址
