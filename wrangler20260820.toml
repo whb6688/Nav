@@ -1,0 +1,12 @@
+name = "navsphere"
+compatibility_date = "2024-11-11"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[env.production.vars]
+GITHUB_CLIENT_ID = "Ov23likgtKrSTFpTckCj"
+GITHUB_OWNER = "whb6688"
+GITHUB_REPO = "nav"
+GITHUB_BRANCH = "main"
+NEXTAUTH_URL = "https://nav-2ij.pages.dev/api/auth/api/auth"
+NEXT_PUBLIC_API_URL="https://nav-2ij.pages.dev/"
